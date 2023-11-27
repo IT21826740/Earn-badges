@@ -1,1 +1,1 @@
-# earn badge
+# Earn badges
